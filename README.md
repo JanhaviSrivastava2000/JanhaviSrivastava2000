@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @JanhaviSrivastava2000
 - 👀 I’m interested in Data mining, Data analysis and featured engineering.
 - 🌱 I’m currently learning Data Science.
-- 💼 Working as a Associate Engineer.
+- 💼 Working as at Associate Engineer.
 - 🌱 Learning more about Data Analysis, Data Cleaning and Visualization.
 - ✍️ Fond of writng SQL Queries.
 
